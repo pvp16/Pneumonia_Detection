@@ -11,4 +11,4 @@ Normal chest X-ray
 
 Infected chest X-ray
 
-![infimg](https://github.com/pvp16/Pneumonia_Detection/blob/master/images/infected1.png?raw=true)
+![infimg](https://github.com/pvp16/Pneumonia_Detection/blob/master/images/infected1.PNG?raw=true)
